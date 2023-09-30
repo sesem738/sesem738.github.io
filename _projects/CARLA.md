@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Resilience Analysis of Deep Reinforcement Learning Algorithms against Cyberattacks
-description: a project with no image
-img: assets/img/7.jpg
-importance: 4
+description: 
+img: assets/img/carla_sim.jpg
+importance: 3
 category: Research
 ---
 
@@ -34,15 +34,4 @@ In this project, we conducted a comprehensive analysis of the resilience of deep
 
 Our project contributes to the growing field of autonomous driving and cybersecurity. By examining the resilience of DRL algorithms in the face of cyberattacks, we aim to enhance the security and robustness of autonomous systems, making them safer for real-world deployment.
 
-## Future Directions
-
-While our project spanned a limited time frame, the research in this domain is ongoing. Future directions for this research may include:
-
-- Extending the analysis to explore a wider range of cyberattacks and vulnerabilities.
-- Developing advanced techniques to fortify DRL algorithms against potential threats.
-- Collaborating with industry partners to implement and validate the security measures in real-world autonomous vehicles.
-
-## Contact Us
-
-If you are interested in learning more about our research, have questions, or wish to collaborate, please feel free to reach out to us. We are dedicated to advancing the field of autonomous driving and cybersecurity and welcome opportunities to share our findings and expertise. Stay tuned for updates as we continue our exploration of algorithmic resilience in DRL for autonomous systems.
 

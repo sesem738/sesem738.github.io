@@ -1,12 +1,19 @@
 ---
 layout: page
 title: Electromagnetic Formation Flight
-description: another without an image
-img: assets/img/7.jpg
-importance: 3
+description: 
+img: assets/img/RINGS.jpg
+importance: 4
 category: Research
 ---
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/One RING.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/Two RINGS.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
 # Vision-Based Navigation for Electromagnetic Formation Flight
 
 In our project on **Vision-Based Navigation for Electromagnetic Formation Flight**, we have tackled complex challenges and achieved significant milestones. Here is an overview of our contributions:
@@ -38,15 +45,3 @@ In our project on **Vision-Based Navigation for Electromagnetic Formation Flight
 ## Project Impact
 
 Our work in **Vision-Based Navigation for Electromagnetic Formation Flight** has the potential to transform the field of autonomous flight and navigation. By addressing intricate challenges in circuitry design, electromagnetic wave synchronization, control systems, and communication, we are paving the way for safer and more reliable aerial formations guided by vision-based navigation.
-
-## Future Directions
-
-Our project is ongoing, and we have ambitious goals for the future:
-
-- Further optimization and refinement of our control systems.
-- Integration of advanced computer vision techniques for enhanced navigation.
-- Collaboration with industry partners to apply our technology in real-world applications.
-
-## Contact Us
-
-If you are interested in learning more about our project, have questions, or wish to collaborate, please do not hesitate to reach out to us. We are enthusiastic about sharing our research and exploring opportunities for advancement in vision-based navigation and electromagnetic formation flight. Stay tuned for updates as we continue to push the boundaries of autonomous flight technology!

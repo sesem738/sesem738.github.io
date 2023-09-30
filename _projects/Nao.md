@@ -1,11 +1,20 @@
 ---
 layout: page
 title: NAO Humanoid Robot
-description: another without an image
-img: assets/img/7.jpg
-importance: 3
+description: 
+img: assets/img/nao_2.png
+importance: 6
 category: Research
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/nao_2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/nao_maze.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 # Probabilistic Model-Based Framework for NAO Humanoid Robot Behavior in a Vinyl Maze Environment
 

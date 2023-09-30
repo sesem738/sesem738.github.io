@@ -2,13 +2,14 @@
 layout: page
 title: Cooperative Adaptive Cruise Control
 description: 
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/RM.jpg
+importance: 3
 category: Research
 related_publications: einstein1956investigations, einstein1950meaning
 ---
-
-Certainly! Here's the content for your project page written in Markdown format:
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/Robomaster Following.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
 
 # Raspberry Pi-Powered DJI Robomaster S1 Robots
 
@@ -42,13 +43,6 @@ To ensure precise and controlled movements, we implemented a PID (Proportional-I
 
 Our project has far-reaching implications in the field of robotics and automation. By combining the DJI Robomaster S1's mechanical excellence with the computational power of Raspberry Pi and sophisticated software solutions, we've created a versatile platform capable of tackling a wide range of tasks.
 
-## Future Developments
-
-We're not stopping here. Our team is committed to further enhancing the capabilities of these modified robots. Future developments may include:
-
-- Integration of more advanced sensors for improved perception.
-- Expansion of the robot's autonomous navigation capabilities.
-- Collaborative tasks for multiple robots in various domains.
 
 ## Conclusion
 

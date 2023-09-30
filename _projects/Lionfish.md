@@ -1,11 +1,20 @@
 ---
 layout: page
 title: Lionfish Remediation Device
-description: a project with no image
-img: assets/img/7.jpg
-importance: 4
+description: 
+img: assets/img/rid_render.jpg
+importance: 2
 category: Undergraduate Research
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Lionfish RID.PNG" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/pico.JPG" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 # Lionfish Remediation Device
 

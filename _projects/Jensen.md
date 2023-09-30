@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Multimodal Fusion Detection System
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Self Driving Car
+description: 
+img: assets/img/Polaris.jpg
+importance: 1
 category: Undergraduate Research
 ---
+
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/IHMC Mechanical Engineering Internship Application.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
 
 # Bridging the Gap in Autonomous Vehicle Object Detection: Introducing the Multimodal Fusion Detection System (MDFS)
 

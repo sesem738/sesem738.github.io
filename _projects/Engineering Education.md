@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Data Proficiency Study
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: 
+img: assets/img/godwin.png
 importance: 2
 category: Research
 giscus_comments: true
@@ -36,5 +36,4 @@ Our research project was a collaborative effort that benefited from the expertis
 
 Our research project contributes significantly to the field of engineering education by shedding light on the factors that influence the development of engineering identity among undergraduate students. By understanding how data proficiency and motivation interact in this context, we hope to inform educational practices and interventions that can enhance the educational experience and outcomes of future engineering professionals.
 
-If you have any inquiries about our research or would like to access our findings, please don't hesitate to contact us. We are excited to share our insights and collaborate with others interested in this vital area of research.
 

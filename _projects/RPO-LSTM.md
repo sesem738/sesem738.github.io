@@ -2,10 +2,14 @@
 layout: page
 title: Autonomous UAV Landing on Moving Platform
 description: 
-img: assets/img/7.jpg
-importance: 3
+img: assets/img/publication_preview/Banner.png
+importance: 1
 category: Research
 ---
+
+<div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/Isaac Gym.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
 
 # Handling Partial Observability in Dynamic Systems with Deep Reinforcement Learning
 
@@ -13,7 +17,6 @@ category: Research
 
 In this ongoing project, we are focused on addressing the challenge of partial observability in dynamic systems using deep reinforcement learning techniques. Our work is at the cutting edge of artificial intelligence and robotics, and we are making significant strides in this domain.
 
-## Project Highlights
 
 ### Memory-Based Reinforcement Algorithm
 
@@ -35,6 +38,3 @@ As we continue our work, we are excited about the possibilities that lie ahead. 
 - Expanding our research to address other challenges in the field of AI and robotics.
 - Collaborating with industry partners to implement and deploy our solutions.
 
-## Get in Touch
-
-If you are interested in our research, have questions, or would like to collaborate, please feel free to reach out to us. We are eager to share our progress and insights with the research community and industry professionals. Stay tuned for updates on our exciting journey in the world of deep reinforcement learning and robotics!

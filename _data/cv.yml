@@ -15,19 +15,25 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: <a href="https://somewearlabs.com/">Somewear Labs</a>
-      year: May-Oct 2019
+      company: <a href="https://somewearlabs.com/">Florida Institute of Technology</a>
+      year: May-Present
     - title: Peer Tutor
-      institution: <a href="https://www.redwoodmaterials.com/">Redwood Materials</a>
+      company: <a href="https://www.redwoodmaterials.com/">Academic Support Center</a>
       year: Aug 2016-Dec 2019
     - title: Mechanical Engineering Intern
-      institution: <a href="https://www.ghacem.com/en">Ghana Cement Limited (GHACEM) </a>
+      company: <a href="https://www.ghacem.com/en">Ghana Cement Limited (GHACEM) </a>
       year: Jun-Aug 2016
 
-- title: Honors and Awards
+- title: Conference Presentations
   type: time_table
   contents:
-    - title: Guggenheim Second Year Fellowship, Princeton University
+    - title: AIAA SciTech Forum and Exposition
+      year: 2024
+    - title: IEEE/ASEE Frontiers in Education (FIE)
+      year: 2023
+    - title: Institute of Food and Agricultural Sciences - AI In Agriculture
+      year: 2023
+    - title: International Conference on AI in Cybersecurity (ICAIC)
       year: 2021
-    - title: National Science Foundation Graduate Research Fellowship Program
+    - title: Florida Conference on Recent Advances in Robotics (FCRAR)
       year: 2020
